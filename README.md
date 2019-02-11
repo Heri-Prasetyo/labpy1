@@ -15,7 +15,7 @@
 # Hasil program dan Hasil Eksekusi <h2>
 * **Program setelah dibuat dari Algoritma di atas**
 
-![GitHub Logo](Program akhir.png)
+![GitHub Logo]('Program akhir.png')
 
 * **Inisialisasi dan input**
 
@@ -23,18 +23,18 @@
 
 * **Percabangan**
 
-![GitHub Logo](Percabangan)
+![GitHub Logo](Percabangan.png)
 
 # Hasil terbesar dalam 3 kondisi berbeda <h2>
 * **Hasil terbesar Bilangan pertama**
 
-![GitHub Logo](Terbesar bilangan pertama.png)
+![GitHub Logo]('Terbesar bilangan pertama.png')
 
 * **Hasil terbesar Bilangan kedua**
 
-![GitHub Logo](Terbesar bilangan kedua.png)
+![GitHub Logo]('Terbesar bilangan kedua.png')
 
 * **Hasil terbesar Bilangan ketiga**
 
-![GitHub Logo](Terbesar bilangan ketiga.png)
+![GitHub Logo]('Terbesar bilangan ketiga.png')
 
