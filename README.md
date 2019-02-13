@@ -11,30 +11,30 @@
 
 # Flowchart menentukan bilangan terbesar dari 3 bilangan yang diinputkan <h1>
 
-![GitHub Logo] ('hasil flowchart program.png')
+![GitHub Logo](13.png)
 # Hasil program dan Hasil Eksekusi <h2>
 * **Program setelah dibuat dari Algoritma di atas**
 
-![GitHub Logo] ('Program akhir.png')
+![GitHub Logo](7.png)
 
 * **Inisialisasi dan input**
 
-![GitHub Logo] (inisialisasi dan input.png)
+![GitHub Logo](1.png)
 
 * **Percabangan**
 
-![GitHub Logo] (Percabangan.png)
+![GitHub Logo](5.png)
 
 # Hasil terbesar dalam 3 kondisi berbeda <h2>
 * **Hasil terbesar Bilangan pertama**
 
-![GitHub Logo] ('Terbesar bilangan pertama.png')
+![GitHub Logo](11.png)
 
 * **Hasil terbesar Bilangan kedua**
 
-![GitHub Logo] ('Terbesar bilangan kedua.png')
+![GitHub Logo](9.png)
 
 * **Hasil terbesar Bilangan ketiga**
 
-![GitHub Logo] ('Terbesar bilangan ketiga.png')
+![GitHub Logo](10.png)
 
